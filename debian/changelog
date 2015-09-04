@@ -1,3 +1,9 @@
+metricsearch (0.2-17.1) unstable; urgency=low
+
+  * rebuild for version fix 
+
+ -- Kulikovsky Dmitry <dkulikovsky@yandex-team.ru>  Fri, 04 Sep 2015 13:06:46 +0300
+
 metricsearch (0.2-17) precise; urgency=low
 
   * fixed '?' patter matching
